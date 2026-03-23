@@ -1,0 +1,68 @@
+[
+  {
+    "product_id": "PROD-ELEC-001",
+    "name": "Quantum 65-inch 4K Smart TV",
+    "category": "Electronics",
+    "base_price": 799.99,
+    "stock_available": 45,
+    "technical_specs": {
+      "voltage": "110-240V",
+      "power_consumption_watts": 150,
+      "warranty_months": 24,
+      "screen_type": "OLED"
+    },
+    "features": [
+      "Smart TV OS",
+      "HDR10+ Support",
+      "Voice Control Integration"
+    ],
+    "reviews": [
+      {"user": "C001", "rating": 5, "comment": "Amazing picture quality."},
+      {"user": "C045", "rating": 4, "comment": "Great, but the remote is clunky."}
+    ]
+  },
+  {
+    "product_id": "PROD-CLOT-002",
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "base_price": 59.99,
+    "stock_available": 120,
+    "clothing_details": {
+      "material": "100% Cotton",
+      "fit": "Regular",
+      "care_instructions": "Machine wash cold, tumble dry low"
+    },
+    "available_sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "available_colors": [
+      "Vintage Wash Blue",
+      "Midnight Black"
+    ]
+  },
+  {
+    "product_id": "PROD-GROC-003",
+    "name": "Organic Unsweetened Almond Milk",
+    "category": "Groceries",
+    "base_price": 4.49,
+    "stock_available": 300,
+    "grocery_details": {
+      "is_organic": true,
+      "is_vegan": true,
+      "expiry_date": "2024-11-15",
+      "storage_requirement": "Refrigerate after opening"
+    },
+    "nutritional_info": {
+      "serving_size": "1 cup (240ml)",
+      "calories": 40,
+      "protein_grams": 1,
+      "sugar_grams": 0,
+      "allergens": [
+        "Tree Nuts (Almonds)"
+      ]
+    }
+  }
+]
